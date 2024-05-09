@@ -33,6 +33,7 @@ function HomePage() {
                 <h3 className="text-white text-lg">Epoch</h3>
                 <p className="text-gray-400">Tycho</p>
                 </div>
+                
             </div>
             {/* END OF CARD 1 */}
             {/* CARD 2 */}
